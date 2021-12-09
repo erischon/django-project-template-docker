@@ -15,11 +15,11 @@
 
 - git clone https://github.com/erischon/django-project-template-docker.git .
 - change Line Endings for entrypoint files : CRLF to LF
--  
+- add .env* to .gitignore 
 
 ## Notes
 
-- On Windo
+- 
 
 ## Commands
 
