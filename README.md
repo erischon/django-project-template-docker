@@ -6,6 +6,7 @@
 - PostgeSQL
 - Gunicorn
 - Nginx
+- Docker
 
 ## Thanks to
 
@@ -15,7 +16,11 @@
 
 - git clone https://github.com/erischon/django-project-template-docker.git .
 - change Line Endings for entrypoint files : CRLF to LF
-- add .env* to .gitignore 
+- add .env* to .gitignore
+- Modify the README.md file ;)
+- docker-compose exec web python manage.py startapp ...
+
+Enjoy !
 
 ## Notes
 
