@@ -8,6 +8,9 @@
 - Nginx
 - Docker
 
+- Coverage
+- Pytest
+
 ## Installation
 
 - git clone https://github.com/erischon/django-project-template-docker.git .
